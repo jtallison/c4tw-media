@@ -1,4 +1,0 @@
-# Are there images?
-
-Maybe?
-
