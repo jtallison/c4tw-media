@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+#chessboard {
+  margin: 0;
+  padding: 0;
+  outline: 1px solid black;
+}
+
+.square {
+  width: 12.5vw;
+  height: 12.5vh;
+  display: inline-block;
+}
+
+.black {
+  background-color: black;
+}
+
+.white {
+  background-color: white;
+}
